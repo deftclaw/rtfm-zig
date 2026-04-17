@@ -18,8 +18,8 @@ haven't tested this yet, but I'm certain someone has tested `zig`'s alternate
 targets before releasing the feature.  
 
 ### In this repository:  
-    - `zig` source code  
-    - `Containerfile` for building from source  
-    - `doc/zig.html` _# Offline documentation_  
-    - `zig std` _# Offline zig-std documentation - after building the binary_  
-    - the examples in the documentation _# TODO_  
+  - `zig` source code  
+  - `Containerfile` for building from source  
+  - `doc/zig.html` _# Offline documentation_  
+  - `zig std` _# Offline zig-std documentation - after building the binary_  
+  - the examples in the documentation _# TODO_  
