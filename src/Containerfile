@@ -1,0 +1,5 @@
+FROM archlinux:latest
+
+ADD zig-0.15.2.tar.xz /tmp/
+RUN pacman -Syu --noconfirm clang20 cmake lld20 llvm20 llvm20-libs make
+RUN /bin/bash -c "mkdir /tmp/zig-0.15.2/build && cd /tmp/zig-0.15.2/build && cmake .. && make install"
