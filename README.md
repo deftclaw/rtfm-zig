@@ -3,7 +3,7 @@ _Read The Friendly Manual_
 
 ---  
 
-__S__o it turns out `zig` actually has really good documentation. Instead of 
+__So__ it turns out `zig` actually has really good documentation. Instead of 
 using tutorials and "build x with zig" to learn `zig` I thought it would be 
 best to read through it and build the examples. This repo allows that to be 
 done offline - after zig is installed.  
